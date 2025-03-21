@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Maity</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Fullstack projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
 - 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 📫 How to reach me **akashmaity4452@gmail.com**
 
