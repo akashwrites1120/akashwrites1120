@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fullstack Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
